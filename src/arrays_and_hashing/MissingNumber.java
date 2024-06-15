@@ -7,7 +7,7 @@ public class MissingNumber {
     public static void main(String[] args) {
         int[] nums = { 0, 1 };
 
-        System.out.println(missingNumber(nums));
+        // System.out.println(missingNumber(nums));
     } // main
 
     public int missingNumber(int[] nums) {
