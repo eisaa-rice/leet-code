@@ -66,24 +66,3 @@ public class ValidParentheses {
         }
     } // isValid
 }
-
-
-
-
-
-
-
-
-
-
-/*
-      for (int j = (s.length() / 2); j < s.length(); j++) {
-                // if it's not the same as the ascii character 1 or 2 steps above
-                if ((s.charAt(j) != (stack.peek() + 1)) && (s.charAt(j) != (stack.peek() + 2))) {
-                    return false;
-                }
-                else {
-                    stack.pop();
-                }
-            } // for
-*/
