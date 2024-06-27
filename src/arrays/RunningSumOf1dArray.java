@@ -1,4 +1,4 @@
-package arrays_and_hashing;
+package arrays;
 
 public class RunningSumOf1dArray {
     public static void main(String[] args) {
